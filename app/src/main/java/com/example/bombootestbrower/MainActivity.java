@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     EditText et_URL;
     String strURL = "";
     WebView mWebview;
+    WebView second;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
